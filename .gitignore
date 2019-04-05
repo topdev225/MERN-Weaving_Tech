@@ -1,0 +1,8 @@
+node_modules
+client/node_modules
+.vscode
+client/.env
+.env
+passport/config.js
+config.js
+config.json
